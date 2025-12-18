@@ -1,8 +1,10 @@
 # 🔐 Password Manager in C
 
-A simple **Password Manager** written in **C**.  
-It allows users to store passwords in an encrypted form and display them after decryption.
-
+A lightweight Password Manager developed in C.
+The application uses basic encryption techniques to protect stored passwords.
+Credentials are saved persistently using file handling mechanisms.
+A simple, menu-driven interface allows users to add and view passwords easily.
+This project demonstrates fundamental concepts of security and C programming
 ---
 
 ## ✨ Features
