@@ -24,4 +24,4 @@ It allows users to store passwords in an encrypted form and display them after d
 
 ##  How to Run
 ▶️ Program Run (Screenshot):
-![Program Run](run.png)
+![Program Run](Run.png)
